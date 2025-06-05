@@ -1,4 +1,4 @@
-
+# 💫 About Me:
 👋 Hey there! I'm Ankita
 Welcome to my corner of GitHub — where you'll find both my code and my thoughts ☕💻
 
@@ -19,23 +19,6 @@ Side projects I actually finish (well… mostly)
 Code experiments that started on vacation and somehow became serious
 
 A mix of Python, JavaScript, C++, and whatever tech I’m currently obsessed with
-
-🔭 Currently solving problems on LeetCode
-
-👯 Always open to collaborating on meaningful projects — especially in the sustainability space
-
-🤝 Looking for guidance and opportunities to land a tech internship
-
-💬 Ask me why Khaled Hosseini's books always leave me emotional
-
-📫 Let's connect: LinkedIn – https://www.linkedin.com/in/ankita-singh-938a4625b/
-
-😄 Pronouns: she/her
-
-⚡ Fun fact: I love reading and I love solving problems — which basically means I read a lot of problems!
-
-
-# 💫 About Me:
  Currently solving problems on LeetCode<br><br>👯 Always open to collaborating on meaningful projects — especially in the sustainability space<br><br>🤝 Looking for guidance and opportunities to land a tech internship<br><br>💬 Ask me why Khaled Hosseini's books always leave me emotional<br><br>📫 Let's connect: LinkedIn <br><br>😄 Pronouns: she/her<br><br>⚡ Fun fact: I love reading and I love solving problems — which basically means I read a lot of problems!
 
 
