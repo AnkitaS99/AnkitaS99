@@ -5,13 +5,15 @@ Welcome to my corner of GitHub — where you'll find both my code and my thought
 🧠 About Me
 🛠️ Student by morning, developer by evening, story devourer by night
 
-👈 Proudly left-handed (which means I write code with the right side of the brain 😄)
-
-📚 I can finish a fiction book in one sitting — challenge accepted!
-
 💡 Passionate about clean code, smart solutions, and continuous learning (the grind never stops am I right? 😪)
 
 🎯 My productivity peaks under deadlines.
+
+👈 Proudly left-handed (which means I write code with the right side of the brain 😄)
+
+📖 I can finish a fiction book in one sitting — challenge accepted!
+
+🇩🇪📚I spreche auch ein bisschen Deutsch *(that means "I also speak a little bit of German")*
 
 🔍 What You’ll Find Here
 Side projects I actually finish (well… mostly)
