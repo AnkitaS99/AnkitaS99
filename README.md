@@ -20,8 +20,10 @@ Side projects I actually finish (well… mostly)
 
 Code experiments that started on vacation and somehow became serious
 
+I believe that every problem has a simpler solution than we initially assume, and I strive to find it.
+
 A mix of Python, JavaScript, C++, and whatever tech I’m currently obsessed with
- Currently solving problems on LeetCode<br><br>👯 Always open to collaborating on meaningful projects — especially in the sustainability space<br><br>🤝 Looking for guidance and opportunities to land a tech internship<br><br>💬 Ask me why Khaled Hosseini's books always leave me emotional<br><br>📫 Let's connect: LinkedIn <br><br>😄 Pronouns: she/her<br><br>⚡ Fun fact: I love reading and I love solving problems — which basically means I read a lot of problems!
+ Currently solving problems on LeetCode<br><br>👯 Always open to collaborating on meaningful projects — especially in the sustainability space<br><br>🤝 Looking for guidance and opportunities to land a tech internship<br><br>💬 Ask me why Khaled Hosseini's books always leave me emotional<br><br>📫 Let's connect: https://www.linkedin.com/in/ankita-singh-938a4625b/ <br><br>😄 Pronouns: she/her<br><br>⚡ Fun fact: I love reading and I love solving problems — which basically means I read a lot of problems!
 
 
 ## 🌐 Socials:
