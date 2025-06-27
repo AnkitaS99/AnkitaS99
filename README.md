@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hey there! I'm Ankita
-Welcome to my corner of GitHub — where you'll find both my code and my thoughts ☕💻
+Welcome to my corner of GitHub, where you'll find both my code and my thoughts ☕💻
 
 🧠 About Me
 🛠️ Student by morning, developer by evening, story devourer by night
