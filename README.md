@@ -5,7 +5,7 @@ Welcome to my corner of GitHub, where you'll find both my code and my thoughts �
 🧠 About Me
 🛠️ Student by morning, developer by evening, story devourer by night
 
-💡 Passionate about clean code, smart solutions, and continuous learning (the grind never stops am I right? 😪)
+💡 Passionate about clean code, smart solutions and continuous learning (the grind never stops am I right? 😪)
 
 🎯 My productivity peaks under deadlines.
 
