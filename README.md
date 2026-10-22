@@ -2,7 +2,7 @@
 Welcome to my corner of GitHub, where you'll find both my code and my unfinished explorations ☕💻
 
 🧠 About Me
-🛠️ Student by morning, developer by evening, story devourer by night
+🛠️ Student by morning, developer by evening
 
 💡 Passionate about clean code, smart solutions and continuous learning (the grind never stops am I right? 😪)
 
